@@ -16,6 +16,7 @@ using System.Net;
 using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
 using firstShop.API.Data;
+using AutoMapper;
 
 namespace firstShop.API
 {
@@ -32,6 +33,8 @@ namespace firstShop.API
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddAutoMapper();
+            services.AddScoped<IShopRepository, ShopRepository>();
             services.AddMvc();
         }
 
