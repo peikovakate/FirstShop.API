@@ -1,0 +1,352 @@
+﻿[
+  {
+    "Name": "incididunt in minim",
+    "Price": 10.79,
+    "Description": "Aliqua laborum aliqua tempor est. Cillum sit aliqua Lorem sint proident qui labore commodo eu quis veniam ad do. Dolor sit irure aliqua commodo sit est adipisicing commodo cupidatat aliquip id exercitation.",
+    "CategoryId": 4,
+    "IsAvailable": true
+  },
+  {
+    "Name": "pariatur ea incididunt",
+    "Price": 728.34,
+    "Description": "Lorem ea est nulla qui sunt excepteur ipsum dolore ut nostrud fugiat excepteur. Ut enim minim dolor aute cupidatat commodo qui ullamco sint et ut proident cillum excepteur. Adipisicing deserunt pariatur sunt culpa nulla sint.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "deserunt anim veniam ut",
+    "Price": 99.14,
+    "Description": "Officia nisi reprehenderit amet est exercitation nulla reprehenderit irure irure aliqua deserunt id ullamco. Labore deserunt amet fugiat laborum dolore anim quis magna culpa magna consequat aliquip esse.",
+    "CategoryId": 2,
+    "IsAvailable": false
+  },
+  {
+    "Name": "et exercitation ullamco anim",
+    "Price": 768.14,
+    "Description": "Occaecat dolore consectetur laborum cillum amet laborum qui occaecat.",
+    "CategoryId": 3,
+    "IsAvailable": false
+  },
+  {
+    "Name": "minim irure amet",
+    "Price": 403.18,
+    "Description": "Commodo minim eu quis Lorem dolor irure sint exercitation qui laboris occaecat pariatur nulla. Lorem ullamco do velit veniam excepteur est do et dolor minim reprehenderit. Adipisicing ad ullamco ipsum velit labore cupidatat laborum commodo proident esse nisi do exercitation occaecat. Irure elit officia ut ea cillum commodo ut ut pariatur.",
+    "CategoryId": 0,
+    "IsAvailable": true
+  },
+  {
+    "Name": "cupidatat tempor minim duis",
+    "Price": 64.78,
+    "Description": "Ex et fugiat voluptate officia veniam tempor irure aliquip consequat dolore. Aliqua et consectetur id eiusmod amet eu occaecat dolore.",
+    "CategoryId": 4,
+    "IsAvailable": true
+  },
+  {
+    "Name": "laboris elit aliqua",
+    "Price": 790.84,
+    "Description": "Quis exercitation ad sunt et proident nostrud.",
+    "CategoryId": 1,
+    "IsAvailable": true
+  },
+  {
+    "Name": "eiusmod labore",
+    "Price": 70.39,
+    "Description": "Ipsum commodo laborum consectetur et pariatur cillum sint. Reprehenderit in duis amet do non.",
+    "CategoryId": 5,
+    "IsAvailable": true
+  },
+  {
+    "Name": "nulla aute aliquip ex",
+    "Price": 542.2,
+    "Description": "Exercitation laborum excepteur quis occaecat culpa nisi esse voluptate quis eu sunt. Ipsum consequat nisi do exercitation et ut minim incididunt commodo. Nulla nostrud fugiat exercitation duis aliqua nisi consectetur ea dolor irure ipsum duis cupidatat cillum.",
+    "CategoryId": 0,
+    "IsAvailable": false
+  },
+  {
+    "Name": "qui nostrud dolore",
+    "Price": 531.32,
+    "Description": "Ullamco occaecat magna ut sunt nostrud ullamco pariatur laboris amet ad nulla proident. Anim exercitation ullamco do est. Eiusmod nulla nisi ex do irure ut aliqua consequat ex irure ex consequat minim elit.",
+    "CategoryId": 5,
+    "IsAvailable": false
+  },
+  {
+    "Name": "veniam elit",
+    "Price": 172.95,
+    "Description": "Quis sint eu in excepteur proident fugiat exercitation et incididunt commodo consectetur. Non labore minim velit ipsum dolore ea. Sunt dolore deserunt duis sit elit laboris occaecat sit quis voluptate ad irure consectetur ullamco.",
+    "CategoryId": 5,
+    "IsAvailable": true
+  },
+  {
+    "Name": "esse excepteur voluptate",
+    "Price": 36.5,
+    "Description": "Ea velit nisi sunt excepteur sint occaecat mollit exercitation do velit reprehenderit magna. In proident exercitation eu est qui laborum proident dolore.",
+    "CategoryId": 5,
+    "IsAvailable": true
+  },
+  {
+    "Name": "excepteur",
+    "Price": 143.98,
+    "Description": "Laboris fugiat sunt eu Lorem proident qui laborum. Labore amet laborum ea excepteur minim amet esse ea eu adipisicing irure in ipsum. Nostrud ad laborum exercitation sint reprehenderit.",
+    "CategoryId": 5,
+    "IsAvailable": true
+  },
+  {
+    "Name": "aliqua",
+    "Price": 717.4,
+    "Description": "Pariatur incididunt aliqua nostrud amet. Minim et magna Lorem anim elit Lorem. Aliquip officia commodo exercitation dolor consectetur quis commodo aliqua occaecat in. Nisi sunt reprehenderit amet ex aliqua sunt eu irure.",
+    "CategoryId": 3,
+    "IsAvailable": true
+  },
+  {
+    "Name": "dolore aute cillum",
+    "Price": 663.01,
+    "Description": "Est cupidatat eiusmod cupidatat est duis anim consectetur veniam magna reprehenderit incididunt consequat. Exercitation cupidatat elit commodo dolore labore magna consequat tempor incididunt incididunt.",
+    "CategoryId": 1,
+    "IsAvailable": true
+  },
+  {
+    "Name": "duis",
+    "Price": 607.47,
+    "Description": "Sit et sit magna officia. Nulla sit duis duis pariatur proident duis cupidatat. Reprehenderit nisi do minim voluptate. Ex ea consequat consectetur laboris magna veniam in reprehenderit. Ipsum aliqua ad amet elit.",
+    "CategoryId": 3,
+    "IsAvailable": false
+  },
+  {
+    "Name": "officia occaecat excepteur",
+    "Price": 847.32,
+    "Description": "Minim amet ipsum dolore duis ut ut incididunt eu. Non mollit aute enim proident sit dolor ex ex tempor.",
+    "CategoryId": 0,
+    "IsAvailable": false
+  },
+  {
+    "Name": "reprehenderit occaecat enim sunt",
+    "Price": 745.58,
+    "Description": "Ut labore ad ex et veniam ea. Aute incididunt qui irure reprehenderit enim reprehenderit pariatur reprehenderit reprehenderit mollit. Est tempor fugiat incididunt laborum nulla ad.",
+    "CategoryId": 4,
+    "IsAvailable": true
+  },
+  {
+    "Name": "esse incididunt ex",
+    "Price": 220.92,
+    "Description": "Labore ut nisi aliqua amet velit adipisicing adipisicing laboris eu laboris id consectetur. Lorem ex reprehenderit pariatur tempor excepteur irure minim consequat aute excepteur ex tempor velit anim. Veniam dolore nisi ex non duis irure mollit consequat eu reprehenderit. Minim irure cillum commodo nulla eu pariatur consectetur exercitation.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "incididunt exercitation",
+    "Price": 285.42,
+    "Description": "Ipsum cillum elit sint proident non pariatur ex. Sit id adipisicing tempor eiusmod aliqua aliquip commodo sunt. Cillum ex officia occaecat aute est magna cupidatat esse cupidatat. Ut do commodo consectetur exercitation quis tempor cillum id est Lorem proident. Ipsum consequat aliquip mollit exercitation sint exercitation tempor officia consectetur aliqua.",
+    "CategoryId": 1,
+    "IsAvailable": true
+  },
+  {
+    "Name": "culpa",
+    "Price": 527.28,
+    "Description": "Id qui pariatur aute ipsum esse mollit velit fugiat nulla exercitation laboris est. Nisi culpa officia pariatur tempor tempor minim sint voluptate.",
+    "CategoryId": 3,
+    "IsAvailable": true
+  },
+  {
+    "Name": "Lorem do aliqua",
+    "Price": 735.67,
+    "Description": "Ea eiusmod nostrud Lorem pariatur culpa in irure exercitation fugiat. In do exercitation incididunt ut fugiat laboris est Lorem minim dolore irure consectetur voluptate. Do veniam duis incididunt pariatur ut. Amet magna ad anim dolor in ut fugiat nostrud proident cupidatat nostrud ex ut eu.",
+    "CategoryId": 0,
+    "IsAvailable": true
+  },
+  {
+    "Name": "mollit minim",
+    "Price": 383.63,
+    "Description": "Laborum magna cupidatat reprehenderit in exercitation culpa magna eu nulla mollit anim. Deserunt dolor est cillum amet. Eu officia cupidatat sunt pariatur tempor tempor nulla ullamco incididunt enim nostrud anim.",
+    "CategoryId": 5,
+    "IsAvailable": false
+  },
+  {
+    "Name": "dolore minim",
+    "Price": 87.5,
+    "Description": "Consectetur amet deserunt deserunt et non pariatur commodo consectetur laboris. Aute exercitation elit dolore velit sit exercitation nulla amet excepteur enim veniam ea officia. Fugiat magna laboris consequat duis nisi ipsum eu. Reprehenderit qui minim duis ut sunt nostrud amet ut irure veniam elit et.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "id adipisicing sint",
+    "Price": 800.17,
+    "Description": "Lorem aliqua elit consequat aliquip aliqua nulla ipsum fugiat cillum. Amet dolor sit officia non elit quis aute in reprehenderit duis cillum. Minim ut in velit veniam enim. Esse veniam exercitation laborum aliquip pariatur ex ut sunt Lorem tempor.",
+    "CategoryId": 0,
+    "IsAvailable": true
+  },
+  {
+    "Name": "ullamco sit tempor amet",
+    "Price": 644.02,
+    "Description": "Eu ut aute veniam officia aute nostrud. Voluptate dolor occaecat esse commodo aliqua commodo laboris et velit pariatur. Fugiat ullamco commodo dolore nostrud. Laboris excepteur dolore dolore aliquip minim consectetur tempor Lorem adipisicing incididunt ea aute.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "mollit nisi est anim",
+    "Price": 159.23,
+    "Description": "In elit tempor Lorem Lorem. Elit consectetur aute ipsum dolor fugiat fugiat. Ea ea officia excepteur adipisicing.",
+    "CategoryId": 5,
+    "IsAvailable": false
+  },
+  {
+    "Name": "incididunt qui ipsum qui",
+    "Price": 547.4,
+    "Description": "Eu qui reprehenderit aliquip nostrud dolor minim eu ipsum excepteur nulla eiusmod mollit fugiat adipisicing. Laboris anim ullamco proident consectetur laboris sunt irure tempor.",
+    "CategoryId": 5,
+    "IsAvailable": false
+  },
+  {
+    "Name": "sit irure officia duis",
+    "Price": 732.24,
+    "Description": "Commodo incididunt sint consequat irure exercitation esse enim proident officia. Fugiat irure fugiat ea officia deserunt et velit.",
+    "CategoryId": 4,
+    "IsAvailable": false
+  },
+  {
+    "Name": "non sunt eiusmod",
+    "Price": 739.68,
+    "Description": "Tempor id non anim aute nulla qui. Cupidatat Lorem labore exercitation nostrud esse irure proident dolor elit. Ad esse anim ea in eiusmod deserunt laborum minim dolore fugiat. Anim sunt dolor id velit ipsum fugiat reprehenderit.",
+    "CategoryId": 3,
+    "IsAvailable": true
+  },
+  {
+    "Name": "consequat laborum irure sunt",
+    "Price": 638.46,
+    "Description": "Incididunt consectetur enim mollit ipsum deserunt in laborum labore duis. Cupidatat Lorem id ipsum ipsum qui duis tempor eiusmod fugiat cillum mollit reprehenderit enim pariatur. Quis dolor laborum nisi est ut duis sunt nisi laborum. Mollit sit mollit officia nostrud sit magna reprehenderit. Tempor magna deserunt reprehenderit dolor.",
+    "CategoryId": 4,
+    "IsAvailable": false
+  },
+  {
+    "Name": "culpa pariatur Lorem",
+    "Price": 703,
+    "Description": "Dolore id excepteur ullamco ut. Consequat reprehenderit occaecat labore id ipsum nostrud et cupidatat voluptate anim excepteur eu do. Sunt aute fugiat irure nisi incididunt quis anim voluptate sunt eu et id ut labore. Aliqua Lorem duis consequat cupidatat consectetur reprehenderit culpa cillum nisi.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "sunt sunt sit",
+    "Price": 403.17,
+    "Description": "Anim dolore exercitation dolor esse ex. Dolor ex excepteur eu irure sint Lorem esse nisi commodo do. Elit cillum minim pariatur occaecat aute ut irure velit eu veniam reprehenderit Lorem. Mollit culpa do est culpa eiusmod ad nostrud. Sint tempor consequat excepteur irure ea ullamco Lorem aliqua mollit ad non nisi eu.",
+    "CategoryId": 4,
+    "IsAvailable": true
+  },
+  {
+    "Name": "mollit laboris",
+    "Price": 118.26,
+    "Description": "Et ex ullamco ex ut minim tempor.",
+    "CategoryId": 0,
+    "IsAvailable": false
+  },
+  {
+    "Name": "duis occaecat ea",
+    "Price": 447.68,
+    "Description": "Ipsum do cupidatat laboris do consequat dolore eiusmod ut sint in laborum enim ullamco exercitation. Voluptate reprehenderit velit aute cupidatat labore adipisicing. Consequat nulla sit excepteur eiusmod Lorem adipisicing ea culpa voluptate veniam irure ea. Quis cupidatat irure tempor ipsum. Duis elit laboris eu id nostrud in.",
+    "CategoryId": 5,
+    "IsAvailable": true
+  },
+  {
+    "Name": "consectetur ex et",
+    "Price": 281.37,
+    "Description": "Sunt quis consequat do dolore enim et ex enim est occaecat consequat. Commodo quis irure proident labore. Culpa labore esse ullamco ad elit sit nostrud sit. Lorem nostrud ut veniam fugiat. Laborum duis dolor est ullamco incididunt cillum.",
+    "CategoryId": 2,
+    "IsAvailable": false
+  },
+  {
+    "Name": "deserunt nisi veniam cillum",
+    "Price": 499.68,
+    "Description": "Ullamco nulla ullamco cupidatat dolor. In ipsum est minim nostrud dolor duis laboris. In nostrud dolore qui magna. Magna magna qui et dolore consequat do occaecat fugiat cupidatat esse quis nisi proident. Lorem velit pariatur elit eiusmod.",
+    "CategoryId": 1,
+    "IsAvailable": true
+  },
+  {
+    "Name": "id nisi consequat",
+    "Price": 676.54,
+    "Description": "Est amet cillum dolore officia. Ut nisi ea occaecat et nisi et anim. Ullamco sint est occaecat enim pariatur dolor sit magna consequat eu ullamco cillum laboris velit.",
+    "CategoryId": 1,
+    "IsAvailable": true
+  },
+  {
+    "Name": "est",
+    "Price": 458.85,
+    "Description": "Qui mollit nisi aute duis do esse. Ullamco laboris reprehenderit qui qui consequat.",
+    "CategoryId": 1,
+    "IsAvailable": true
+  },
+  {
+    "Name": "veniam nulla sit reprehenderit",
+    "Price": 383.67,
+    "Description": "Deserunt incididunt minim occaecat non. Laborum aliquip aliquip fugiat tempor elit id laborum cupidatat commodo id. Sint sunt ex nulla deserunt cillum id reprehenderit pariatur id non nostrud. Quis ad fugiat deserunt velit voluptate consequat tempor magna laboris.",
+    "CategoryId": 3,
+    "IsAvailable": true
+  },
+  {
+    "Name": "laboris",
+    "Price": 365.96,
+    "Description": "Laboris id esse tempor anim. Cupidatat Lorem exercitation ut exercitation sint. Cillum commodo commodo ipsum qui cillum ut culpa ut. Cillum do reprehenderit nisi exercitation.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "ea anim eu in",
+    "Price": 601,
+    "Description": "Do cillum magna non fugiat ea velit pariatur occaecat ullamco id excepteur ea. Do duis dolore incididunt ipsum. Mollit et culpa id tempor officia proident Lorem aliquip et qui culpa ad ipsum. Amet minim amet et qui elit aliqua enim non incididunt officia exercitation in.",
+    "CategoryId": 3,
+    "IsAvailable": false
+  },
+  {
+    "Name": "sunt do qui tempor",
+    "Price": 679.52,
+    "Description": "Incididunt et esse eu enim consectetur nulla.",
+    "CategoryId": 2,
+    "IsAvailable": false
+  },
+  {
+    "Name": "cupidatat",
+    "Price": 993,
+    "Description": "Minim mollit sit labore ipsum mollit. Ex excepteur excepteur nulla nisi fugiat cupidatat ea cupidatat aliqua. Ad commodo id dolor esse enim mollit est dolor.",
+    "CategoryId": 3,
+    "IsAvailable": false
+  },
+  {
+    "Name": "anim dolor",
+    "Price": 816.79,
+    "Description": "Sunt dolore nulla ad Lorem ex nulla consectetur veniam minim adipisicing fugiat minim ex.",
+    "CategoryId": 2,
+    "IsAvailable": true
+  },
+  {
+    "Name": "est",
+    "Price": 614.58,
+    "Description": "Aliquip cillum sunt qui exercitation aliqua cupidatat. Nulla adipisicing deserunt nisi cillum exercitation eu mollit.",
+    "CategoryId": 5,
+    "IsAvailable": true
+  },
+  {
+    "Name": "eu voluptate nisi",
+    "Price": 139.23,
+    "Description": "Eiusmod ut reprehenderit laborum ipsum ullamco labore proident voluptate adipisicing Lorem aliquip. Fugiat ut velit sunt elit tempor reprehenderit ullamco sint veniam.",
+    "CategoryId": 1,
+    "IsAvailable": false
+  },
+  {
+    "Name": "incididunt quis",
+    "Price": 746.45,
+    "Description": "Veniam ipsum non ex pariatur velit Lorem. Ad anim veniam dolore qui labore.",
+    "CategoryId": 1,
+    "IsAvailable": false
+  },
+  {
+    "Name": "quis occaecat minim pariatur",
+    "Price": 421.01,
+    "Description": "Sit enim aliqua cupidatat cillum.",
+    "CategoryId": 0,
+    "IsAvailable": false
+  },
+  {
+    "Name": "officia",
+    "Price": 152.27,
+    "Description": "Cupidatat esse qui laborum magna in incididunt ipsum laboris. Lorem tempor minim ex id anim laborum in Lorem in.",
+    "CategoryId": 0,
+    "IsAvailable": false
+  }
+]

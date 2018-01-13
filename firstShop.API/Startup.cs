@@ -35,17 +35,18 @@ namespace firstShop.API
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddAutoMapper();
             services.AddScoped<IShopRepository, ShopRepository>();
+            services.AddTransient<Seed>();
             services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, Seed seeder)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            //seeder.SeedProducts(); //seeds product data from productDataSeed.json
             app.UseMvc();
         }
     }
