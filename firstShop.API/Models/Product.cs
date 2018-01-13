@@ -12,5 +12,6 @@ namespace firstShop.API.Models
         public decimal Price { get; set; }
         public string Description { get; set; }
         public Category ProductCategory { get; set; }
+        public bool IsAvailable { get; set; }
     }
 }
