@@ -17,6 +17,8 @@ using Microsoft.AspNetCore.Diagnostics;
 using Microsoft.AspNetCore.Http;
 using firstShop.API.Data;
 using AutoMapper;
+using firstShop.API.Administration;
+using firstShop.API.Helpers;
 
 namespace firstShop.API
 {
@@ -36,6 +38,7 @@ namespace firstShop.API
             services.AddDbContext<DataContext>(x => x.UseSqlite(Configuration.GetConnectionString("DefaultConnection")));
             services.AddAutoMapper();
             services.AddScoped<IShopRepository, ShopRepository>();
+            services.AddScoped<IAuthRepository, AuthRepository>();
             services.AddTransient<Seed>();
             services.AddCors(); //about allowing access to server
             services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).
@@ -60,8 +63,26 @@ namespace firstShop.API
             {
                 app.UseDeveloperExceptionPage();
             }
+            else
+            {
+                app.UseExceptionHandler(builder =>
+                {
+                    builder.Run(async context =>
+                    {
+                        context.Response.StatusCode = (int)HttpStatusCode.InternalServerError;
+                        var error = context.Features.Get<IExceptionHandlerFeature>();
+
+                        if (error != null)
+                        {
+                            context.Response.AddApplicationError(error.Error.Message);
+                            await context.Response.WriteAsync(error.Error.Message);
+                        }
+                    });
+                });
+            }
             app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());
             //seeder.SeedProducts(); //seeds product data from productDataSeed.json
+            app.UseAuthentication();    
             app.UseMvc();
         }
     }
