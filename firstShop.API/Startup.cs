@@ -36,6 +36,7 @@ namespace firstShop.API
             services.AddAutoMapper();
             services.AddScoped<IShopRepository, ShopRepository>();
             services.AddTransient<Seed>();
+            services.AddCors(); //about allowing access to server
             services.AddMvc();
         }
 
@@ -46,6 +47,7 @@ namespace firstShop.API
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseCors(x => x.AllowAnyHeader().AllowAnyMethod().AllowAnyOrigin().AllowCredentials());
             //seeder.SeedProducts(); //seeds product data from productDataSeed.json
             app.UseMvc();
         }
